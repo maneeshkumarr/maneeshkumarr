@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
+  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 </p>
 
 <p align="center">
@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maneeshkumarr" alt="maneeshkumarr" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=maneeshkumarr" alt="maneeshkumarr" />
+  </a>
 </p>
 
 <p align="center">
@@ -18,6 +20,8 @@
     <img src="https://img.shields.io/twitter/follow/manish_kumar28?logo=twitter&style=for-the-badge" alt="manish_kumar28" />
   </a>
 </p>
+
+---
 
 - 🌱 I’m currently learning **Mern stack**
 
@@ -103,8 +107,14 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshkumarr&show_icons=true&locale=en&layout=compact" alt="maneeshkumarr" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshkumarr&show_icons=true&locale=en&layout=compact" alt="maneeshkumarr" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maneeshkumarr&show_icons=true&locale=en" alt="maneeshkumarr" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maneeshkumarr&show_icons=true&locale=en" alt="maneeshkumarr" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshkumarr&" alt="maneeshkumarr" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshkumarr&" alt="maneeshkumarr" />
+</p>
