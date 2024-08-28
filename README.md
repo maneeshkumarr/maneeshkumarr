@@ -9,11 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=maneeshkumarr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maneeshkumarr&theme=darkhub" alt="Maneesh Kumar's trophies" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://twitter.com/manish_kumar28" target="_blank">
