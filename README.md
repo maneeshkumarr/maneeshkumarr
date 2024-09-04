@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maneesh Kumar</h1>
+**<h1 align="center">Hi 👋, I'm Maneesh Kumar</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="center">
@@ -115,3 +115,4 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshkumarr&" alt="GitHub Streak" />
 </p>
+**
