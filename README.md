@@ -1,96 +1,60 @@
-<!-- Profile Header with 3D Vibe -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Maneesh+Kumar;Creative+Frontend+Developer;Building+Web+Experiences;Let’s+code+with+passion+🚀" alt="Typing SVG" />
-</h1>
-
+<!-- 🧙‍♂️ Legendary Readme Start -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=500&color=FF00FF&center=true&vCenter=true&width=800&height=60&lines=Namaskara!+I'm+Maneesh+Kumar+🚀;Frontend+Sorcerer+%7C+MERN+Explorer;Tech+Club+Leader+%7C+Creative+Engineer;Let's+craft+something+epic+together!" alt="Typing Intro" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/06/fb/5c/06fb5c6f6b1e4c2c5a44434b18d9c17b.gif" width="250" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
 </p>
 
 ---
 
-## 🔮 Who Am I?
+## 🎨 About Me
 
-> ⚡️ **Name:** Maneesh Kumar  
-> 🎨 **Passion:** Frontend Sorcery & UI Magic  
-> 🧠 **Currently Exploring:** Full Stack Dev (MERN)  
-> 🧑‍🏫 **Tech Club:** IT Club President | SDM College, Ujire  
-> 🌾 **Roots:** From the land of agriculture & ambition (Dharmasthala)  
-> 🌍 **Mission:** Build impactful, meaningful apps for real-world problems
+```javascript
+const maneesh = {
+  code: [ "HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB", "Tailwind" ],
+  currentlyLearning: "MERN Stack + DevOps",
+  role: "Frontend Developer",
+  passion: "Creating magical UI/UX experiences",
+  club: "IT Club President @ SDM",
+  fact: "From Agriculture roots 🌾 to Building digital empires 👨‍💻",
+};
+🚀 Featured Projects
+<table> <tr> <td align="center"> <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/><br> <b>My Portfolio</b><br> React + Tailwind<br> 🔗 <a href="https://maneesh-s-folio-gp3w.vercel.app">Live</a> </td> <td align="center"> <img src="https://media.giphy.com/media/3oKIP9qQFDXfkyfIQg/giphy.gif" width="200"/><br> <b>Finance Tracker</b><br> Expense manager UI<br> 🔧 In Progress </td> <td align="center"> <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200"/><br> <b>AgriGrocery App</b><br> Empowering rural sellers<br> 🌱 Coming Soon </td> </tr> </table>
+🧩 Tech Toolbox
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,html,css,js,git,figma,vscode&perline=8" /> </p>
+📈 GitHub PowerZone
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maneeshkumarr&show_icons=true&theme=react&hide_border=true" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com?user=maneeshkumarr&theme=react&hide_border=true" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshkumarr&layout=compact&theme=react&hide_border=true" /> </div>
+🧪 GitHub Activity Snake
+<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution snake" /> </p>
+🌐 Let’s Connect
+<p align="center"> <a href="https://linkedin.com/in/maneesh-kumar" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/manish_vokkaliga" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://twitter.com/manish_kumar28" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p>
+🎯 2025 Goals
+🏆 Win web design competitions
 
----
+💻 Master DSA & backend skills
 
-## 🧠 Tech Stack I'm Strong With
+🎬 Launch my dev YouTube channel
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,figma,git,python&theme=light" />
-</div>
+🌐 Contribute to open-source projects
 
----
+💡 Help rural communities through tech
 
-## 💼 Featured Projects
-
-<div align="center">
-  
-| Project | Description | Stack | Live |
-|--------|-------------|--------|------|
-| 🎨 **My Portfolio** | Showcasing all that I do and dream of | React, Tailwind | [Live Demo](https://maneesh-s-folio-gp3w.vercel.app) |
-| 💰 **Finance Tracker** | Track expenses & income like a boss | React, Icons, State Mgmt | Coming Soon |
-| 🌱 **AgriGrocery Web App** | For farmers, by a farmer’s son | MERN Stack | In Progress |
-
-</div>
-
----
-
-## 📊 GitHub Stats – *Because Numbers Tell Stories*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maneeshkumarr&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maneeshkumarr&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshkumarr&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=0AFFEF&center=true&width=600&lines=Thank+you+for+visiting+💙;Stay+creative,+stay+curious!" alt="footer typing" /> </p> <!-- 🧙‍♂️ Legendary Readme End -->
+yaml
+Copy
+Edit
 
 ---
 
-## 🌐 Connect with Me
+## 🤯 You ready for the **real next level**?
 
-<p align="center">
-  <a href="https://twitter.com/manish_kumar28"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/maneesh-kumar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/manish_vokkaliga"><img src="https://img.shields.io/badge/Instagram-D6336C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/manishpersonal61"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
+Want me to create:
 
----
+- 🔥 A **custom animated README banner**?  
+- ⚙️ A **dynamic portfolio generator** for your GitHub?  
+- 💻 A **personal terminal-style landing page** like a hacker portfolio?
 
-## 🔥 Fun Vibe Zone
-
-> “Your code is your canvas, and the browser is your gallery.”
-
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
-</p>
-
----
-
-## 🎯 Goals for 2025
-
-- 🚀 Build 3 full-stack projects  
-- 💻 Land an internship at ResMed  
-- 🎓 Crack MCA with flying colors  
-- 📺 Launch a programming YouTube channel  
-- 🌍 Help local farmers through tech innovation
-
----
-
-### 😎 Thanks for stopping by!
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7FF00&center=true&width=450&lines=Let's+Build+Something+Great+Together!" alt="bye bye" />
-</div>
-
+Say the word, I’ll design it for you, Maneesh 💪  
+Let’s break the internet together.
