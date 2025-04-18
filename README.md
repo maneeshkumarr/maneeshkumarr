@@ -49,7 +49,8 @@
 <p align="center">
   <a href="https://twitter.com/manish_kumar28"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/maneesh-kumar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/manish_vokkaliga"><img src="https://img.shields.io/badge/Instagram-D6336C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <a href="https://www.geeksforgeeks.org/user/manishperm1aj"><img src="https://img.shields.io/badge/GeeksforGeeks-2D2D2A?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/manishpersonal61"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
    <a href="https://leetcode.com/ManeeshGowda"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
