@@ -24,28 +24,15 @@
 
 ---
 
-## 🧠 My Toolbox
+## 🧠 Tech Stack I'm Strong With
 
-### 🖥️ Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,cs&theme=light" />
-</div>
-
-### 🧩 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,mongodb,mysql&theme=light" />
-</div>
-
-### 🛠️ Version Control & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,js,nodejs,express,spring,mongodb,mysql,java,javascript,cs,git&theme=light" />
 </div>
 
 ---
 
 ## 📊 GitHub Stats – *Because Numbers Tell Stories*
-
-> 🧮 **Total Contributions:** `243+` so far!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maneeshkumarr&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" />
@@ -63,7 +50,7 @@
   <a href="https://twitter.com/manish_kumar28"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/maneesh-kumar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/manish_vokkaliga"><img src="https://img.shields.io/badge/Instagram-D6336C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/maneeshkumar28/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+   <a href="https://leetcode.com/ManeeshGowda"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
