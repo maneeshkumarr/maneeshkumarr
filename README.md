@@ -2,13 +2,12 @@
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maneeshkumarr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 
 <p align="center">
   <a href="https://twitter.com/manish_kumar28" target="_blank">
@@ -20,34 +19,34 @@
 
 ### 🛠️ About Me
 
-- 🌱 I’m currently learning **MERN stack**.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://maneesh-s-folio-gp3w.vercel.app/).
-- 💬 Ask me about **React, Front-End Development**.
-- 📫 How to reach me **maneeshkumar345645@gmail.com**.
-- ⚡ Fun fact **I am Funny**.
+- 🌱 I’m currently learning **MERN Stack**  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://maneesh-s-folio-gp3w.vercel.app/)  
+- 💬 Ask me about **React, Front-End Development**  
+- 📫 How to reach me: **maneeshkumar345645@gmail.com**  
+- ⚡ Fun fact: **I am funny 😄**
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://twitter.com/manish_kumar28" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/linkedin.com/in/maneesh-kumar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/maneesh-kumar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/manish_vokkaliga" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/manishpersonal61" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -102,16 +101,16 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshkumarr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshkumarr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maneeshkumarr&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maneeshkumarr&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshkumarr&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshkumarr" alt="GitHub Streak" />
 </p>
