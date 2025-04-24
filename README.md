@@ -37,11 +37,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maneeshkumarr&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" />
   <br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshkumarr&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&locale=en&ring=00F7FF&fire=FFA116&currStreakLabel=F7FF00&currStreakNum=F7FF00&sideNums=00F7FF&sideLabels=00F7FF&stroke=F7FF00&background=000000&border=F7FF00&currStreakNum=F7FF00&dates=00F7FF&timezone=Asia/Kolkata" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshkumarr&theme=tokyonight&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshkumarr&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
 
 
 ---
